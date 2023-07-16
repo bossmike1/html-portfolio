@@ -1,0 +1,25 @@
+* {
+    background-color: #5d3851;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    background-color: white;
+    color: black;
+}
+h2 {
+    color:aliceblue ;
+}
+p {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.mic {
+    background-color: white;
+    color: blue;
+}
+#moviii {
+    color: black;
+}
